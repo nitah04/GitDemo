@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+      <class name="qaclickacaemy.RESTAPITest">
+        <test-method status="PASS" signature="RESTAPIBrowserAutomation()[pri:0, instance:qaclickacaemy.RESTAPITest@35fb3008]" name="RESTAPIBrowserAutomation" duration-ms="0" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTAPIBrowserAutomation -->
+        <test-method status="PASS" signature="RESTAPIUIAutomation()[pri:0, instance:qaclickacaemy.RESTAPITest@35fb3008]" name="RESTAPIUIAutomation" duration-ms="4" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTAPIUIAutomation -->
+      </class> <!-- qaclickacaemy.RESTAPITest -->
+      <class name="qaclickacaemy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacaemy.SeleniumTest@3cbbc1e0]" name="BrowserAutomation" duration-ms="6" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="UIAutomation()[pri:0, instance:qaclickacaemy.SeleniumTest@3cbbc1e0]" name="UIAutomation" duration-ms="0" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIAutomation -->
+      </class> <!-- qaclickacaemy.SeleniumTest -->
+      <class name="qaclickacaemy.AppiumTest">
+        <test-method status="PASS" signature="AppiumBrowserAutomation()[pri:0, instance:qaclickacaemy.AppiumTest@7225790e]" name="AppiumBrowserAutomation" duration-ms="0" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumBrowserAutomation -->
+        <test-method status="PASS" signature="AppiumUIAutomation()[pri:0, instance:qaclickacaemy.AppiumTest@7225790e]" name="AppiumUIAutomation" duration-ms="0" started-at="2019-09-26T10:15:53Z" finished-at="2019-09-26T10:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumUIAutomation -->
+      </class> <!-- qaclickacaemy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
